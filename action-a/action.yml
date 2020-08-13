@@ -1,4 +1,4 @@
-name: "Hello Actions"
+wname: "Hello Actions"
 description: "Greet someone"
 author: "octocat@github.com"
 
@@ -14,4 +14,4 @@ runs:
 
 branding:
   icon: "mic"
-  color: "purple"
+  color: "yellow"
